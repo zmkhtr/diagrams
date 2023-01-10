@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-10T07:19:05.534Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="rtOQqOvRvLzcVuwc85Xa" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-10T07:24:32.149Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="vBSTOa0HFH2K40zmEHBM" version="20.5.1" type="github">
   <diagram id="JcS4z9gELw5rnRpmRF22" name="Page-1">
-    <mxGraphModel dx="695" dy="760" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="901" dy="615" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -137,14 +137,6 @@
         <mxCell id="Cnv_9IuAl_tyhODEU2nr-33" value="URLSession&lt;br&gt;HTTPClient" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1151" y="110" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Cnv_9IuAl_tyhODEU2nr-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=0;strokeColor=#3700CC;dashed=1;fillColor=#6a00ff;" edge="1" parent="1" source="Cnv_9IuAl_tyhODEU2nr-38" target="Cnv_9IuAl_tyhODEU2nr-19">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1036" y="80" />
-              <mxPoint x="1036" y="300" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Cnv_9IuAl_tyhODEU2nr-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=0;strokeColor=#3700CC;dashed=1;fillColor=#6a00ff;" edge="1" parent="1" source="Cnv_9IuAl_tyhODEU2nr-38" target="Cnv_9IuAl_tyhODEU2nr-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -152,11 +144,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cnv_9IuAl_tyhODEU2nr-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=0;strokeColor=#3700CC;dashed=1;fillColor=#6a00ff;" edge="1" parent="1" source="Cnv_9IuAl_tyhODEU2nr-38" target="Cnv_9IuAl_tyhODEU2nr-3">
+        <mxCell id="Cnv_9IuAl_tyhODEU2nr-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=default;endArrow=classic;endFill=0;strokeColor=#3700CC;dashed=1;fillColor=#6a00ff;" edge="1" parent="1" source="Cnv_9IuAl_tyhODEU2nr-38" target="Cnv_9IuAl_tyhODEU2nr-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cnv_9IuAl_tyhODEU2nr-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=default;endArrow=classic;endFill=0;strokeColor=#3700CC;dashed=1;fillColor=#6a00ff;" edge="1" parent="1" source="Cnv_9IuAl_tyhODEU2nr-38" target="Cnv_9IuAl_tyhODEU2nr-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1016" y="40" />
-              <mxPoint x="1016" y="460" />
+              <mxPoint x="883" y="80" />
+              <mxPoint x="883" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -323,6 +318,22 @@
         </mxCell>
         <mxCell id="Cnv_9IuAl_tyhODEU2nr-99" value="&lt;span style=&quot;text-align: left;&quot;&gt;DispatchQueue.&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot; class=&quot;s1&quot;&gt;main&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;.&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot; class=&quot;s2&quot;&gt;asyncDeduped&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1841" y="578" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cnv_9IuAl_tyhODEU2nr-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=default;endArrow=block;endFill=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" edge="1" parent="1" source="Cnv_9IuAl_tyhODEU2nr-107" target="Cnv_9IuAl_tyhODEU2nr-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="978" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cnv_9IuAl_tyhODEU2nr-107" value="RemoteFeedbackChecker&lt;br&gt;LoggerDecorator" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="903" y="280" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cnv_9IuAl_tyhODEU2nr-113" value="&lt;font color=&quot;#000000&quot;&gt;Feedback Checker Module&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="894" y="250" width="161" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cnv_9IuAl_tyhODEU2nr-118" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="890" y="251" width="340" height="162" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
