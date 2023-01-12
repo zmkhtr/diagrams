@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-12T07:36:38.161Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="LhLBrGwSTKMF1bwZDQkm" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-12T07:54:03.362Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="BcVPIl68FgoGlh8Onetb" version="20.5.1" type="github">
   <diagram id="JcS4z9gELw5rnRpmRF22" name="Page-1">
-    <mxGraphModel dx="1878" dy="1078" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2431" dy="1395" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -401,6 +401,14 @@
         <mxCell id="Cnv_9IuAl_tyhODEU2nr-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=default;endArrow=block;endFill=0;strokeColor=#6c8ebf;fillColor=#dae8fc;dashed=1;" edge="1" parent="1" source="Cnv_9IuAl_tyhODEU2nr-140" target="Cnv_9IuAl_tyhODEU2nr-130">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Cnv_9IuAl_tyhODEU2nr-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontColor=#A9C4EB;endArrow=classic;endFill=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="Cnv_9IuAl_tyhODEU2nr-140" target="Cnv_9IuAl_tyhODEU2nr-189">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2920" y="638" />
+              <mxPoint x="3239" y="638" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Cnv_9IuAl_tyhODEU2nr-140" value="RemoteTokenLoader" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="2841" y="582.96" width="140" height="40" as="geometry" />
         </mxCell>
@@ -486,6 +494,9 @@
         </mxCell>
         <mxCell id="Cnv_9IuAl_tyhODEU2nr-186" value="HTTPCLIENTFACTORY&lt;br&gt;Assembler/Builder/Factory" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="3001" y="106.96" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cnv_9IuAl_tyhODEU2nr-189" value="TokenExpiredHelper" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="3204" y="578" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
